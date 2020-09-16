@@ -18,6 +18,7 @@
 		6C8AE43022ECBB0E009D647C /* FaceRecognition3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 6C8AE42F22ECBB0E009D647C /* FaceRecognition3.mlmodel */; };
 		7604CA772511CF280024C3C0 /* CustomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7604CA752511CF270024C3C0 /* CustomViewController.swift */; };
 		7604CA782511CF280024C3C0 /* CustomViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7604CA762511CF270024C3C0 /* CustomViewController.xib */; };
+		7604CA7A2511E8AF0024C3C0 /* undoCommitnotpushedtoworkingtree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7604CA792511E8AF0024C3C0 /* undoCommitnotpushedtoworkingtree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		6C8AE42F22ECBB0E009D647C /* FaceRecognition3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = FaceRecognition3.mlmodel; sourceTree = "<group>"; };
 		7604CA752511CF270024C3C0 /* CustomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomViewController.swift; sourceTree = "<group>"; };
 		7604CA762511CF270024C3C0 /* CustomViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomViewController.xib; sourceTree = "<group>"; };
+		7604CA792511E8AF0024C3C0 /* undoCommitnotpushedtoworkingtree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = undoCommitnotpushedtoworkingtree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				6C83712C22EC7E1700FAB431 /* art.scnassets */,
 				7604CA752511CF270024C3C0 /* CustomViewController.swift */,
 				7604CA762511CF270024C3C0 /* CustomViewController.xib */,
+				7604CA792511E8AF0024C3C0 /* undoCommitnotpushedtoworkingtree.swift */,
 			);
 			path = WhoAreYou;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 				6C83711E22EC5E1A00FAB431 /* WhoAreYou.xcdatamodeld in Sources */,
 				6C8AE43022ECBB0E009D647C /* FaceRecognition3.mlmodel in Sources */,
 				6C83711622EC5E1A00FAB431 /* AppDelegate.swift in Sources */,
+				7604CA7A2511E8AF0024C3C0 /* undoCommitnotpushedtoworkingtree.swift in Sources */,
 				6C8AE42C22ECAEA5009D647C /* FaceRecognition.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
