@@ -26,8 +26,14 @@ class ViewController: UIViewController, AVCaptureVideoDataOutputSampleBufferDele
         let configuration = ARFaceTrackingConfiguration()
         configuration.isLightEstimationEnabled = true
         sceneView.session.run(configuration, options: [.resetTracking, .removeExistingAnchors])
+        sayHello()
     }
 
+    
+    
+    func sayHello() {
+        print("Hello world!!")
+    }
 
 }
 
